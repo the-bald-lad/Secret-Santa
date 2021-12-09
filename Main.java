@@ -2,7 +2,7 @@ import java.util.*;
 class Main {
 
   public static void main(String[] args) {
-    String[] names = {"Sam", "Finn", "Hannah", "Alanna", "Matt", "Isaac"};
+    String[] names = {"Sam", "Finn", "Hannah", "Alanna", "Matt", "Isaac", "Rowan", "Lettie"};
     List<String> list = new ArrayList<String>();
 
     for (int i = 0; i < names.length; i++) {
